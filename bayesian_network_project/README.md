@@ -1,5 +1,5 @@
 
-# 🧠 Bayesian Networks
+#  Bayesian Networks
 
 A **Bayesian Network (BN)** is a probabilistic graphical model used to represent uncertain knowledge using:
 
@@ -10,7 +10,7 @@ Bayesian Networks help in reasoning, prediction, diagnosis, and decision-making 
 
 ---
 
-# 📌 Features
+#  Features
 
 - Probabilistic reasoning
 - Handles uncertainty
@@ -19,17 +19,17 @@ Bayesian Networks help in reasoning, prediction, diagnosis, and decision-making 
 
 ---
 
-# 🚀 Applications
+#  Applications
 
-- 🏥 Medical Diagnosis
-- 🤖 AI Systems
-- 📈 Risk Analysis
-- 🔐 Cybersecurity
-- 🌦️ Weather Prediction
+-  Medical Diagnosis
+-  AI Systems
+-  Risk Analysis
+-  Cybersecurity
+-  Weather Prediction
 
 ---
 
-# 🛠️ Popular Bayesian Network Tools
+#  Popular Bayesian Network Tools
 
 | Tool | Purpose |
 |---|---|
@@ -41,7 +41,7 @@ Bayesian Networks help in reasoning, prediction, diagnosis, and decision-making 
 
 ---
 
-# 🧪 Example Implemented
+#  Example Implemented
 
 This project implements a simple **Rain-Sprinkler-GrassWet** Bayesian Network.
 
@@ -52,7 +52,7 @@ This project implements a simple **Rain-Sprinkler-GrassWet** Bayesian Network.
 
 ---
 
-# 📂 Files
+#  Files
 
 | File | Description |
 |---|---|
@@ -61,7 +61,7 @@ This project implements a simple **Rain-Sprinkler-GrassWet** Bayesian Network.
 
 ---
 
-# ▶️ Run
+#  Run
 
 ```bash
 python demo_bayesian_network.py
@@ -69,7 +69,7 @@ python demo_bayesian_network.py
 
 ---
 
-# 📚 Technologies Used
+#  Technologies Used
 
 - Python
 - pgmpy
