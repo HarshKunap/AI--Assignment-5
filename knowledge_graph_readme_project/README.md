@@ -54,7 +54,7 @@ python demo_kg.py
 
 ---
 
-# 📷 Output Example
+#  Output Example
 
 ```text
 Harsh -- studies --> Artificial Intelligence
