@@ -1,5 +1,5 @@
 
-# 🧠 Knowledge Graphs (KG)
+#  Knowledge Graphs (KG)
 
 A **Knowledge Graph (KG)** is a structured way of representing information using:
 
@@ -10,7 +10,7 @@ Knowledge Graphs help AI systems understand context and relationships instead of
 
 ---
 
-# 📌 Example
+#  Example
 
 ```text
 Harsh ── studies ──> Artificial Intelligence
@@ -19,17 +19,17 @@ AI ── belongs_to ──> Computer Science
 
 ---
 
-# 🚀 Applications
+#  Applications
 
-- 🔎 Search Engines
-- 🤖 AI Assistants
-- 🎬 Recommendation Systems
-- 🏥 Healthcare
-- 💼 Business Intelligence
+-  Search Engines
+-  AI Assistants
+-  Recommendation Systems
+-  Healthcare
+-  Business Intelligence
 
 ---
 
-# 🛠️ Popular Knowledge Graph Tools
+#  Popular Knowledge Graph Tools
 
 | Tool | Purpose |
 |---|---|
@@ -42,11 +42,11 @@ AI ── belongs_to ──> Computer Science
 
 ---
 
-# 🧪 Demo Project
+#  Demo Project
 
 This repository also contains a simple Python demo using **NetworkX** to build a mini Knowledge Graph.
 
-## ▶️ Run
+##  Run
 
 ```bash
 python demo_kg.py
@@ -63,7 +63,7 @@ Artificial Intelligence -- belongs_to --> Computer Science
 
 ---
 
-# 📚 Technologies Used
+#  Technologies Used
 
 - Python
 - NetworkX
